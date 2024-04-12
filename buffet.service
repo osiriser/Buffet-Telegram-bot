@@ -1,0 +1,10 @@
+[Unit]
+Description=Buffet bot
+After=multi-user.target
+[Service]
+ExecStart=/home/radomir/buffet/bot.py
+Restart=always
+Type=simple
+WorkingDirectory=/home/radomir/buffet
+[Install]
+WantedBy=multi-user.target
