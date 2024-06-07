@@ -4,7 +4,7 @@
 Buffet Telegram Bot is a virtual shopping assistant that allows users to purchase items and receive order details directly through Telegram. This bot is built using `aiogram` and `sqlite3` to manage products, orders, and users efficiently.
 
 
-<img src="https://github.com/osiriser/Buffet-Telegram-bot/blob/main/photo1.png" width="400"/> , <img src="https://github.com/osiriser/Buffet-Telegram-bot/blob/main/photo2.jpg" width="400"/>
+<img src="https://github.com/osiriser/Buffet-Telegram-bot/blob/main/photo1.png" width="500"/> , <img src="https://github.com/osiriser/Buffet-Telegram-bot/blob/main/photo2.jpg" width="500"/>
 
 
 ## Features
